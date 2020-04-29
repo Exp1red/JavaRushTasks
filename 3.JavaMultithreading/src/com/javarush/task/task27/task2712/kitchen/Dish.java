@@ -10,7 +10,7 @@ public enum Dish {
     public static String allDishesToString(){
         StringBuilder sb = new StringBuilder();
         for (Dish dish : Dish.values()){
-            sb.append(dish);
+            sb.append(dish).append(" ");
         }
         return sb.toString();
     }
