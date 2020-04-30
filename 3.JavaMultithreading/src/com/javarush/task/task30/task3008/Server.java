@@ -15,17 +15,21 @@ public class Server {
         int port = ConsoleHelper.readInt();
         try (ServerSocket serverSocket = new ServerSocket(port)){
             ConsoleHelper.writeMessage("Сервер запущен.");
-            while (true) {
-                Socket socket = serverSocket.accept();
-                    new Handler(socket).start();
-                }
 
+            while (true) {
+
+                try (Socket socket = serverSocket.accept()) {
+                    new Handler(socket).start();
+
+                }catch (Exception e){
+                    ConsoleHelper.writeMessage("Ошибка , сервер упал.");
+                    break;
+                }
+            }
         } catch (IOException ignored) {
             ConsoleHelper.writeMessage("Ошибка , сервер упал.");
         }
     }
-
-
 
 
     public static void sendBroadcastMessage(Message message){
@@ -38,6 +42,8 @@ public class Server {
             }
         }
     }
+
+
     private static class Handler extends Thread{
         private Socket socket;
         public Handler(Socket socket){

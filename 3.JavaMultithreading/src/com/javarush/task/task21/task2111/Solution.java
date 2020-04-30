@@ -22,12 +22,10 @@ public class Solution {
 
         List<User> result = new LinkedList();
 
-        Statement stmt = null;
-        ResultSet rs = null;
 
-        try {
-            stmt = connection.createStatement();
-            rs = stmt.executeQuery(query);
+
+        try(Statement stmt = connection.createStatement();
+            ResultSet rs = stmt.executeQuery(query) ) {
             while (rs.next()) {
                 int id = rs.getInt("ID");
                 String name = rs.getString("DISPLAYED_NAME");
@@ -69,5 +67,20 @@ public class Solution {
 
     public static void main(String[] args) {
 
+    }
+
+    @Override
+    protected void finalize() throws Throwable {
+        if (connection == null){
+        super.finalize();
+        }else {
+            connection.close();
+        }
+
+        /*
+        Метод finalize в классе Solution должен корректно завершаться в случае, если значение поля connection равно null.
+        Метод finalize в классе Solution должен закрывать текущее соединение, если значение поля connection не равно null.
+
+         */
     }
 }
