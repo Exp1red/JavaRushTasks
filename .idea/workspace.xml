@@ -2,49 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="ku ku epta1">
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3102/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3103/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3105/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2111/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2111/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/Tablet.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/Tablet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/Условие.jrtc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3008/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3008/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/Util.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/bean/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/controller/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/dao/UserDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/dao/mock/DataSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/FakeModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/MainModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/Model.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/ModelData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/service/UserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/view/EditUserView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/view/UsersView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/view/View.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/Условие.jrtc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2111/Solution$User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2111/Solution$User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2111/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2111/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3003/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3003/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3005/Solution$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3005/Solution$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3005/Solution$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3005/Solution$B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3005/Solution$C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3005/Solution$C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3005/Solution$D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3005/Solution$D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3005/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3005/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/Server$Handler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/Server$Handler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3008/Server.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/controller/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/model/FakeModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/model/FakeModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/model/MainModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/model/MainModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/model/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/model/Model.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/model/ModelData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/model/ModelData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/view/EditUserView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/view/EditUserView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/view/UsersView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/view/UsersView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task36/task3608/Условие.jrtc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +83,7 @@
       <recent name="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3\JavaRushTasks\3.JavaMultithreading\src\com\javarush\task\task36\task3608" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$PROJECT_DIR$/../bin/appletviewer.policy" />
       <method v="2">
@@ -321,41 +283,13 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration name="Restaurant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task27.task2712.Restaurant" />
-      <module name="3.JavaMultithreading" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task27.task2712.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task24.task2405.Solution" />
-      <module name="3.JavaMultithreading" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task31.task3105.Solution" />
+      <module name="4.JavaCollections" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task24.task2405.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task24.task2409.Solution" />
-      <module name="3.JavaMultithreading" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task24.task2409.*" />
+          <option name="PATTERN" value="com.javarush.task.task31.task3105.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -364,12 +298,12 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task30.task3005.Solution" />
-      <module name="3.JavaMultithreading" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task31.task3113.Solution" />
+      <module name="4.JavaCollections" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task30.task3005.*" />
+          <option name="PATTERN" value="com.javarush.task.task31.task3113.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -384,6 +318,34 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.javarush.task.task31.task3101.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task31.task3112.Solution" />
+      <module name="4.JavaCollections" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task31.task3112.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task31.task3104.Solution" />
+      <module name="4.JavaCollections" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task31.task3104.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -457,19 +419,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (3)" />
-      <item itemvalue="Application.Restaurant" />
-      <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (3)" />
+      <item itemvalue="Application.Solution (5)" />
+      <item itemvalue="Application.Solution (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Restaurant" />
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -555,7 +517,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588160676657</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ku ku epta1">
+      <created>1588254241605</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588254241605</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -616,10 +585,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="736" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587369638223" />
-    <state x="765" y="167" width="460" height="313" key="#com.intellij.ide.util.MemberChooser" timestamp="1588253708776">
+    <state x="765" y="167" width="460" height="313" key="#com.intellij.ide.util.MemberChooser" timestamp="1588323123339">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="167" width="460" height="313" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588253708776" />
+    <state x="765" y="167" width="460" height="313" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588323123339" />
     <state x="507" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1588172992880">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -644,10 +613,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="648" y="381" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1587400686637" />
-    <state x="521" y="114" key="CommitChangelistDialog2" timestamp="1588254232414">
+    <state x="521" y="114" key="CommitChangelistDialog2" timestamp="1588395292425">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="521" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588254232414" />
+    <state x="521" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588395292425" />
     <state width="388" height="438" key="DebuggerActiveHint" timestamp="1582120511280">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -668,22 +637,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="636" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588091055776" />
-    <state width="1876" height="169" key="GridCell.Tab.0.bottom" timestamp="1588252026931">
+    <state width="1876" height="169" key="GridCell.Tab.0.bottom" timestamp="1588357345485">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="169" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588252026931" />
-    <state width="1876" height="169" key="GridCell.Tab.0.center" timestamp="1588252026931">
+    <state width="1876" height="169" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588357345485" />
+    <state width="1876" height="169" key="GridCell.Tab.0.center" timestamp="1588357345485">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="169" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588252026931" />
-    <state width="1876" height="169" key="GridCell.Tab.0.left" timestamp="1588252026930">
+    <state width="1876" height="169" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588357345485" />
+    <state width="1876" height="169" key="GridCell.Tab.0.left" timestamp="1588357345485">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="169" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588252026930" />
-    <state width="1876" height="169" key="GridCell.Tab.0.right" timestamp="1588252026931">
+    <state width="1876" height="169" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588357345485" />
+    <state width="1876" height="169" key="GridCell.Tab.0.right" timestamp="1588357345485">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="169" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588252026931" />
+    <state width="1876" height="169" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588357345485" />
     <state width="1877" height="74" key="GridCell.Tab.1.bottom" timestamp="1585296004597">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -712,14 +681,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588092509848" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1588160603178">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1588254459373">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588160603178" />
-    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1588247762964">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588254459373" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1588394770267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588247762964" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588394770267" />
     <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588135476989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
