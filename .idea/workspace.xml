@@ -1,345 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:repo" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="ku ku epta1">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_slf4j_log4j_over_slf4j_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task15/task1522/Earth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task15/task1522/Moon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task15/task1522/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task15/task1522/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task15/task1522/Sun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task15/task1522/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task15/task1528/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task15/task1528/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2109/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2109/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/ad/Advertisement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/ad/AdvertisementManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/ad/AdvertisementStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/ad/NoVideoAvailableException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/kitchen/Waiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3011/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3011/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/BaseObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Bomb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Canvas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/KeyboardObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Rocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Space.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/SpaceShip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Ufo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3106/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3106/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3313/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3313/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3313/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3401/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3401/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3402/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3402/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3405/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3405/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3406/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3406/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3407/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3407/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3408/Cache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3408/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3408/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3409/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3409/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3409/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3411/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3411/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3412/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3412/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3413/AnyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3413/SoftCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3413/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3413/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3501/GenericStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3501/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3501/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3502/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3502/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3503/ClassForGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3503/InterfaceForGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3503/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3503/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3504/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3504/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3505/Convertable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3505/ConvertableBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3505/ConvertableUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3505/ConvertableUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3505/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3505/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3506/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3506/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3507/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3507/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3507/data/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3507/data/Elephant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3507/data/Sheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3507/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3508/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3508/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3509/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3509/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3510/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3510/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3510/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3510/Kitten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3510/Puppy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3510/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3511/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3511/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3512/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3512/Generator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3512/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3512/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/AmigoSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/HashMapReflectionHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log4j-over-slf4j-1.7.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.23.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/slf4j-log4j12-1.7.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1522/Earth.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1522/Moon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1522/Planet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1522/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1522/Sun.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1522/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1528/Solution$Hrivna.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1528/Solution$Money.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1528/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1528/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1810/Solution$DownloadException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1810/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1810/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2003/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2003/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2109/Solution$A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2109/Solution$B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2109/Solution$C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2109/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2109/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2712/kitchen/Waiter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3011/Solution$A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3011/Solution$B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3011/Solution$C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3011/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task30/task3011/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/META-INF/4.JavaCollections.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task22/task2213/Field.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task22/task2213/Figure.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task22/task2213/FigureFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task22/task2213/KeyboardObserver$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task22/task2213/KeyboardObserver$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task22/task2213/KeyboardObserver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task22/task2213/Tetris.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task22/task2213/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task25/task2515/BaseObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task25/task2515/Bomb.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task25/task2515/Canvas.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task25/task2515/KeyboardObserver$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task25/task2515/KeyboardObserver$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task25/task2515/KeyboardObserver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task25/task2515/Rocket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task25/task2515/Space.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task25/task2515/SpaceShip.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task25/task2515/Ufo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task25/task2515/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task31/task3106/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task31/task3106/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3205/CustomInvocationHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3205/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3205/SomeInterfaceWithMethods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3205/SomeInterfaceWithMethodsImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3205/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3206/Big.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3206/Item.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3206/ItemInvocationHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3206/Small.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3206/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3206/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3207/DoubleString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3207/DoubleStringImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3207/Solution$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3207/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3207/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3208/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3208/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3208/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3208/Solution$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3208/Solution$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3208/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3208/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3212/Cache.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3212/ServiceLocator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3212/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3212/contex/InitialContext.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3212/service/Service.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3212/service/impl/EJBServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3212/service/impl/JMSServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3212/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3301/Solution$Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3301/Solution$Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3301/Solution$Pet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3301/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3301/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3302/Solution$Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3302/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3302/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3303/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3303/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3304/Solution$First.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3304/Solution$Second.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3304/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3304/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3305/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3305/Motorbike.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3305/ParkingLot.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3305/RacingBike.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3305/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3305/Vehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3305/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3306/Solution$Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3306/Solution$Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3306/Solution$Pet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3306/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3306/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3307/Solution$Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3307/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3307/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3308/Shop$Goods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3308/Shop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3308/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3308/data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3308/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3311/RealBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3311/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3311/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3312/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3312/Zoo$Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3312/Zoo$Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3312/Zoo$Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3312/Zoo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3312/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3313/Event.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3313/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3313/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3401/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3401/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3402/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3402/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3405/Solution$Helper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3405/Solution$Monkey.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3405/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3405/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3406/Solution$Helper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3406/Solution$Monkey.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3406/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3406/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3407/Solution$Helper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3407/Solution$Monkey.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3407/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3407/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3408/Cache.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3408/Solution$SomeKey.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3408/Solution$SomeValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3408/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3408/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3409/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3409/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3409/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3411/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3411/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3412/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3412/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3413/AnyObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3413/SoftCache.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3413/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task34/task3413/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3501/GenericStatic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3501/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3501/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3502/Solution$SomeClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3502/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3502/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3503/ClassForGenerics.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3503/InterfaceForGenerics.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3503/Solution$TestClassGood.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3503/Solution$TestClassWrong1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3503/Solution$TestClassWrong2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3503/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3503/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3504/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3504/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3505/Convertable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3505/ConvertableBook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3505/ConvertableUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3505/ConvertableUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3505/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3505/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3506/Solution$A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3506/Solution$B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3506/Solution$C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3506/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3506/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3507/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3507/Solution$ClassFromPath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3507/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3507/data/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3507/data/Elephant.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3507/data/Sheep.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3507/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3508/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3508/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3509/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3509/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3510/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3510/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3510/House.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3510/Kitten.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3510/Puppy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3510/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3511/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3511/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3512/Event.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3512/Generator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3512/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3512/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task37/task3707/AmigoSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task37/task3707/HashMapReflectionHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task37/task3707/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_slf4j_log4j_over_slf4j_1_7_26.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1707/IMF.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1707/IMF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1707/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1707/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/Restaurant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/Tablet.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/Tablet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/kitchen/Cook.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/kitchen/Cook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/kitchen/Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/kitchen/Dish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/kitchen/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/kitchen/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2412/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2412/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/ad/Advertisement.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/ad/Advertisement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/ad/AdvertisementManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/ad/AdvertisementManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/4.JavaCollections/4.JavaCollections.iml" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/4.JavaCollections.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task20/task2028/CustomTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task20/task2028/CustomTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3111/SearchFileVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3111/SearchFileVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3111/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3111/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1707/IMF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1707/IMF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2406/Solution$Apt3Bedroom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2406/Solution$Apt3Bedroom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2406/Solution$BigHall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2406/Solution$BigHall.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2406/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task24/task2406/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2712/Restaurant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2712/Restaurant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/META-INF/3.JavaMultithreading.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2712/Tablet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2712/Tablet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2712/kitchen/Cook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2712/kitchen/Cook.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2712/kitchen/Dish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2712/kitchen/Dish.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2712/kitchen/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2712/kitchen/Order.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2712/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2712/Условие.jrtc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3204/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3204/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task20/task2028/CustomTree$Entry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task20/task2028/CustomTree$Entry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task20/task2028/CustomTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task20/task2028/CustomTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task31/task3111/SearchFileVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task31/task3111/SearchFileVisitor.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -355,14 +63,12 @@
   <component name="ExportToHTMLSettings">
     <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../JavaRushTasks\exportToHTML" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="JavaRushTasks" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
         <option value="Interface" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -384,7 +90,6 @@
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -393,26 +98,37 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/jackson-annotations-2.11.0.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../Program Files/nodejs/node" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.javarush.task.task37.task3714" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.javarush.task.task37.task3712" />
       <recent name="com.javarush.task.task30.task3004" />
       <recent name="com.javarush.task.task30.task3003" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\intellijSandbox\JavaRushTasks" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3\JavaRushTasks\3.JavaMultithreading\src" />
@@ -420,7 +136,7 @@
       <recent name="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3\JavaRushTasks\3.JavaMultithreading\src\com\javarush\task\task36\task3608" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$PROJECT_DIR$/../bin/appletviewer.policy" />
       <method v="2">
@@ -621,26 +337,12 @@
       <method />
     </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task35.task3507.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task37.task3709.Solution" />
       <module name="4.JavaCollections" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task35.task3507.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task35.task3506.Solution" />
-      <module name="4.JavaCollections" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task35.task3506.*" />
+          <option name="PATTERN" value="com.javarush.task.task37.task3709.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -649,12 +351,12 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task35.task3505.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task37.task3710.Solution" />
       <module name="4.JavaCollections" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task35.task3505.*" />
+          <option name="PATTERN" value="com.javarush.task.task37.task3710.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -663,12 +365,26 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task35.task3503.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task37.task3706.Solution" />
       <module name="4.JavaCollections" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task35.task3503.*" />
+          <option name="PATTERN" value="com.javarush.task.task37.task3706.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task37.task3713.Solution" />
+      <module name="4.JavaCollections" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task37.task3713.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -677,12 +393,12 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task35.task3504.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task33.task3310.Solution" />
       <module name="4.JavaCollections" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task35.task3504.*" />
+          <option name="PATTERN" value="com.javarush.task.task33.task3310.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -703,7 +419,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
@@ -756,33 +472,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (2)" />
-      <item itemvalue="Application.Solution (4)" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution (3)" />
+      <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="Application.Solution (5)" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -882,7 +586,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588740652512</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ku ku epta1">
+      <created>1589438844583</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1589438844583</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -896,13 +607,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -923,30 +633,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="655" y="190" key="#BotClient$BotSocketThread/0.0.1920.1040@0.0.1920.1040" timestamp="1585480530557" />
-    <state x="552" y="178" key="#Inspections" timestamp="1585570324178">
+    <state x="552" y="178" key="#Inspections" timestamp="1589807589405">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1585570324178" />
+    <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1589807589405" />
     <state x="552" y="178" width="816" height="780" key="#Intentions" timestamp="1581926566793">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" width="816" height="780" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1581926566793" />
-    <state x="552" y="178" key="#Notifications" timestamp="1588407839776">
+    <state x="552" y="178" key="#Notifications" timestamp="1589976148978">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1588407839776" />
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1589976148978" />
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585568639821">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585568639821" />
-    <state x="736" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587369638223">
+    <state x="736" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590142957344">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="736" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587369638223" />
-    <state x="531" y="245" width="460" height="313" key="#com.intellij.ide.util.MemberChooser" timestamp="1589386556769">
+    <state x="736" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590142957344" />
+    <state x="531" y="245" width="464" height="313" key="#com.intellij.ide.util.MemberChooser" timestamp="1590478428868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="531" y="245" width="460" height="313" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589386556769" />
+    <state x="531" y="245" width="464" height="313" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590478428868" />
+    <state x="779" y="211" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1589976227050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="211" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589976227050" />
     <state x="811" y="298" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1589134703481">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -955,18 +669,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="507" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588172992880" />
-    <state x="756" y="379" width="471" height="331" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588916513747">
+    <state x="756" y="379" width="471" height="331" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589528071440">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="756" y="379" width="471" height="331" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1588916513747" />
+    <state x="756" y="379" width="471" height="331" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1589528071440" />
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588134894415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588134894415" />
-    <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1588166416160">
+    <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1589647599868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588166416160" />
+    <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589647599868" />
     <state x="587" y="0" key="#toString()_Generation_Settings" timestamp="1588229248440">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -975,18 +689,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="648" y="381" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1587400686637" />
-    <state x="521" y="114" key="CommitChangelistDialog2" timestamp="1588740651719">
+    <state x="521" y="114" key="CommitChangelistDialog2" timestamp="1589438842855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="521" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588740651719" />
+    <state x="521" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589438842855" />
     <state width="388" height="438" key="DebuggerActiveHint" timestamp="1582120511280">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="388" height="438" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1582120511280" />
-    <state x="662" y="197" key="FileChooserDialogImpl" timestamp="1588672596792">
+    <state x="662" y="197" key="FileChooserDialogImpl" timestamp="1589522173935">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="662" y="197" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588672596792" />
+    <state x="662" y="197" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589522173935" />
     <state x="625" y="418" width="525" height="225" key="Github.CreateGistDialog" timestamp="1588089941698">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -999,88 +713,108 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="636" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588091055776" />
-    <state width="1876" height="140" key="GridCell.Tab.0.bottom" timestamp="1589386411054">
+    <state width="1876" height="82" key="GridCell.Tab.0.bottom" timestamp="1590480019919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="140" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589386411054" />
-    <state width="1876" height="140" key="GridCell.Tab.0.center" timestamp="1589386411054">
+    <state width="1876" height="82" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590480019919" />
+    <state width="1876" height="82" key="GridCell.Tab.0.center" timestamp="1590480019919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="140" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589386411054" />
-    <state width="1876" height="140" key="GridCell.Tab.0.left" timestamp="1589386411054">
+    <state width="1876" height="82" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590480019919" />
+    <state width="1876" height="82" key="GridCell.Tab.0.left" timestamp="1590480019919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="140" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589386411054" />
-    <state width="1876" height="140" key="GridCell.Tab.0.right" timestamp="1589386411054">
+    <state width="1876" height="82" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590480019919" />
+    <state width="1876" height="82" key="GridCell.Tab.0.right" timestamp="1590480019919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="140" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589386411054" />
-    <state width="1876" height="184" key="GridCell.Tab.1.bottom" timestamp="1588841387547">
+    <state width="1876" height="82" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590480019919" />
+    <state width="1876" height="296" key="GridCell.Tab.1.bottom" timestamp="1590146785992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="184" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588841387547" />
-    <state width="1876" height="184" key="GridCell.Tab.1.center" timestamp="1588841387546">
+    <state width="1876" height="296" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590146785992" />
+    <state width="1876" height="296" key="GridCell.Tab.1.center" timestamp="1590146785992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="184" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588841387546" />
-    <state width="1876" height="184" key="GridCell.Tab.1.left" timestamp="1588841387546">
+    <state width="1876" height="296" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590146785992" />
+    <state width="1876" height="296" key="GridCell.Tab.1.left" timestamp="1590146785992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="184" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588841387546" />
-    <state width="1876" height="184" key="GridCell.Tab.1.right" timestamp="1588841387546">
+    <state width="1876" height="296" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590146785992" />
+    <state width="1876" height="296" key="GridCell.Tab.1.right" timestamp="1590146785992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="184" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588841387546" />
-    <state x="540" y="254" width="1094" height="531" key="IDE.errors.dialog" timestamp="1588755781442">
+    <state width="1876" height="296" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590146785992" />
+    <state x="540" y="254" width="1094" height="531" key="IDE.errors.dialog" timestamp="1590415393290">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="540" y="254" width="1094" height="531" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588755781442" />
+    <state x="540" y="254" width="1094" height="531" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590415393290" />
     <state x="539" y="230" key="RollbackChangesDialog" timestamp="1588173219721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="539" y="230" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588173219721" />
-    <state x="55" y="90" key="SettingsEditor" timestamp="1589135288177">
+    <state x="74" y="74" key="SettingsEditor" timestamp="1590479759952">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="55" y="90" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589135288177" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1588740664766">
+    <state x="74" y="74" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590479759952" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1589438865876">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588740664766" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589438865876" />
     <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1589428070028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589428070028" />
-    <state x="417" y="360" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589135277613">
+    <state x="716" y="428" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590479757874">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="417" y="360" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1589135277613" />
+    <state x="716" y="428" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1590479757874" />
     <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588135476989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588135476989" />
+    <state x="614" y="167" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590068843522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="167" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590068843522" />
     <state x="138" y="251" width="883" height="789" key="find.popup" timestamp="1584623658345">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="138" y="251" width="883" height="789" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584623658345" />
-    <state x="199" y="194" key="new project wizard" timestamp="1589124255494">
+    <state x="199" y="194" key="new project wizard" timestamp="1590377701920">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="199" y="194" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1589124255494" />
+    <state x="199" y="194" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1590377701920" />
+    <state x="630" y="284" width="700" height="530" key="recent.locations.popup" timestamp="1590058604377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="630" y="284" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590058604377" />
     <state x="702" y="148" key="refactoring.ChangeSignatureDialog" timestamp="1585549538765">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="702" y="148" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585549538765" />
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1589181587905">
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1589614276458">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589181587905" />
-    <state x="583" y="417" width="672" height="678" key="search.everywhere.popup" timestamp="1589181605857">
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589614276458" />
+    <state x="583" y="417" width="672" height="678" key="search.everywhere.popup" timestamp="1589614296029">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="583" y="417" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589181605857" />
+    <state x="583" y="417" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589614296029" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3713/space/SpaceShip.java</url>
+          <line>5</line>
+          <properties class="com.javarush.task.task37.task3713.space.SpaceShip" method="getCrewChain">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="reader" />

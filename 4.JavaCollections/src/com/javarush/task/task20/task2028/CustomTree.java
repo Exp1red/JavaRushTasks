@@ -3,130 +3,205 @@ package com.javarush.task.task20.task2028;
 import java.io.Serializable;
 import java.util.*;
 
-import static java.lang.String.valueOf;
+/*
+Построй дерево(1)
+*/
+public class CustomTree extends AbstractList<String> implements Serializable, Cloneable {
+    private static final String LEFT = "LEFT_CHILD";
+    private static final String RIGHT = "RIGHT_CHILD";
 
+    Entry<String> root = new Entry<>("Root");
 
-public class CustomTree extends AbstractList<String> implements Cloneable, Serializable {
-
-     Entry<String> root;
-
-    private   List<Entry<String>> list = new LinkedList<>();
-    private   int size = list.size();
-
-    public CustomTree(){
-        root = new Entry<>("0");
-        list.add(root);
-    }
-
-
-
-    static class Entry<T> implements Serializable{
+    static class Entry<T> implements Serializable {
         String elementName;
-        boolean availableToAddLeftChildren , availableToAddRightChildren;
-        Entry<T> parent;
-        Entry<T> leftChild;
-        Entry<T> rightChild;
+        int lineNumber;
+        boolean availableToAddLeftChildren, availableToAddRightChildren;
+        Entry<T> parent, leftChild, rightChild;
 
-        public Entry(String str) {
-            elementName = str;
-            availableToAddLeftChildren = true;
-            availableToAddRightChildren = true;
+        public Entry(String elementName) {
+            this.elementName = elementName;
+            availableToAddLeftChildren = availableToAddRightChildren = true;
         }
 
-        public boolean isAvailableToAddChildren () {
+        public void checkChildren() {
+            if (leftChild != null)
+                availableToAddLeftChildren = false;
+            if (rightChild != null)
+                availableToAddRightChildren = false;
+        }
+
+        public boolean isAvailableToAddChildren() {
             return availableToAddLeftChildren || availableToAddRightChildren;
         }
-
-
-
-    }
-
-
-    public String getParent (String s) {
-        for (Entry<String> entry : list ){
-            if (entry.elementName.equals(s)){
-                return entry.parent.elementName;
-            }
-        }
-        return null;
     }
 
     @Override
     public boolean remove(Object o) {
-        if (o.getClass().getSimpleName().equals("String")){
+        if (!o.getClass().getSimpleName().equals("String"))
+            throw new UnsupportedOperationException("Можно добавлять только строки.");
 
-            for (Entry<String> entry : list){
-                if (entry.leftChild.elementName.equals(o)){
-                    entry.availableToAddLeftChildren = true;
-                    entry.leftChild.parent = null;
-                    return true;
+        Queue<Entry<String>> nodes = new LinkedList<>(Collections.singletonList(root));
+
+        while (!nodes.isEmpty()) {
+            Entry<String> node = nodes.poll();
+
+            if (node.elementName.equals(o)) {
+                if (node.parent.leftChild == node) {
+                    node.parent.leftChild = null;
+                    node.parent.availableToAddLeftChildren = true;
                 }
 
-                if (entry.rightChild.elementName.equals(o)){
-                    entry.availableToAddRightChildren = true;
-                    entry.rightChild.parent = null;
-                    return true;
+                if (node.parent.rightChild == node) {
+                    node.parent.rightChild = null;
+                    node.parent.availableToAddRightChildren = true;
                 }
+
+                // restoreCorruptedNodes(); // если обрублены все узлы, освобождает нижний уровень для добавления новых элементов.
+
+                return true;
             }
 
-        }else throw new UnsupportedOperationException();
+            if (node.leftChild != null)
+                nodes.offer(node.leftChild);
+            if (node.rightChild != null)
+                nodes.offer(node.rightChild);
+        }
+
         return false;
     }
 
     @Override
-    public boolean add(String s){
+    public int size() {
+        int count = -1;
 
-    for (Entry<String> entry : list) {
-        if (entry.isAvailableToAddChildren()) {
-            if (entry.availableToAddLeftChildren) {
-                Entry<String> leftChild = new Entry<>(s);
-                entry.leftChild = leftChild;
-                entry.availableToAddLeftChildren = false;
-                leftChild.parent = entry;
-                list.add(leftChild);
-                return true;
+        Queue<Entry<String>> nodes = new LinkedList<>(Collections.singletonList(root));
+
+        while (!nodes.isEmpty()) {
+            Entry<String> node = nodes.poll();
+            count++;
+
+            if (node.leftChild != null)
+                nodes.offer(node.leftChild);
+            if (node.rightChild != null)
+                nodes.offer(node.rightChild);
+        }
+
+        return count;
+    }
+
+    @Override
+    public boolean add(String s) {
+        Queue<Entry<String>> nodes = new LinkedList<>(Collections.singletonList(root));
+
+        while (!nodes.isEmpty()) {
+            Entry<String> currentNode = nodes.poll();
+
+            if (currentNode.isAvailableToAddChildren()) {
+                if (currentNode.availableToAddLeftChildren)
+                    return appendChild(s, currentNode, LEFT);
+                if (currentNode.availableToAddRightChildren)
+                    return appendChild(s, currentNode, RIGHT);
             } else {
-                Entry<String> rightChild = new Entry<>(s);
-                entry.rightChild = rightChild;
-                entry.availableToAddRightChildren = false;
-                rightChild.parent = entry;
-                list.add(rightChild);
+                if (currentNode.leftChild != null)
+                    nodes.offer(currentNode.leftChild);
+                if (currentNode.rightChild != null)
+                    nodes.offer(currentNode.rightChild);
+            }
+        }
+
+        return false;
+    }
+
+    private boolean appendChild(String s, Entry<String> node, final String child) {
+        switch (child) {
+            case LEFT: {
+                node.leftChild = new Entry<>(s);
+                node.leftChild.parent = node;
+                node.checkChildren();
+                return true;
+            }
+
+            case RIGHT: {
+                node.rightChild = new Entry<>(s);
+                node.rightChild.parent = node;
+                node.checkChildren();
                 return true;
             }
         }
 
-    }
         return false;
     }
 
+    public String getParent(String elementName) {
+        Queue<Entry<String>> nodes = new LinkedList<>(Collections.singletonList(root));
+
+        while (!nodes.isEmpty()) {
+            Entry<String> node = nodes.poll();
+
+            if (node.elementName.equals(elementName))
+                return node.parent.elementName;
+
+            if (node.leftChild != null)
+                nodes.offer(node.leftChild);
+            if (node.rightChild != null)
+                nodes.offer(node.rightChild);
+        }
+
+        return null;
+    }
 
     @Override
-    public int size() {
-        return list.size() - 1;
+    public String get(int index) {
+        throw new UnsupportedOperationException("Операция не поддерживается данным классом!");
     }
 
-
-    public String get(int index) { throw new UnsupportedOperationException(); }
-    public String set(int index, String element){
-        throw new UnsupportedOperationException();
-    }
-    public String remove(int index){
-        throw new UnsupportedOperationException();
-    }
-    public List<String> subList(int fromIndex, int toIndex){
-        throw new UnsupportedOperationException();
-    }
-    protected void removeRange(int fromIndex, int toIndex){
-        throw new UnsupportedOperationException();
-    }
-    public boolean addAll(int index, Collection<? extends String> c){
-        throw new UnsupportedOperationException();
+    @Override
+    public String set(int index, String element) {
+        throw new UnsupportedOperationException("Операция не поддерживается данным классом!");
     }
 
-    public void add(int index, String element){
-        throw new UnsupportedOperationException();
+    @Override
+    public void add(int index, String element) {
+        throw new UnsupportedOperationException("Операция не поддерживается данным классом!");
     }
 
+    @Override
+    public String remove(int index) {
+        throw new UnsupportedOperationException("Операция не поддерживается данным классом!");
+    }
 
+    @Override
+    public List<String> subList(int fromIndex, int toIndex) {
+        throw new UnsupportedOperationException("Операция не поддерживается данным классом!");
+    }
 
+    @Override
+    protected void removeRange(int fromIndex, int toIndex) {
+        throw new UnsupportedOperationException("Операция не поддерживается данным классом!");
+    }
+
+    @Override
+    public boolean addAll(int index, Collection<? extends String> c) {
+        throw new UnsupportedOperationException("Операция не поддерживается данным классом!");
+    }
+
+    @Override
+    public String toString() {
+        Queue<Entry<String>> nodes = new LinkedList<>(Collections.singletonList(root));
+
+        StringBuilder stringBuilder = new StringBuilder();
+
+        while (!nodes.isEmpty()) {
+            Entry<String> entry = nodes.poll();
+
+            stringBuilder.append(entry.elementName).append(" -> ");
+
+            if (entry.leftChild != null)
+                nodes.offer(entry.leftChild);
+            if (entry.rightChild != null)
+                nodes.offer(entry.rightChild);
+        }
+
+        return stringBuilder.toString();
+    }
 }

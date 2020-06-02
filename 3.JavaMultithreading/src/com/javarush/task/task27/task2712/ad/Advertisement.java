@@ -1,12 +1,13 @@
 package com.javarush.task.task27.task2712.ad;
 
 public class Advertisement {
-  private Object content;
+     long amountPerOneDisplaying;
+    private Object content;
   private String name;
   private long initialAmount;
   private int hits;
   private int duration;
-  private long amountPerOneDisplaying;
+
 
     public Advertisement(Object content, String name, long initialAmount, int hits, int duration) {
         this.content = content;
@@ -15,6 +16,11 @@ public class Advertisement {
         this.hits = hits;
         this.duration = duration;
         this.amountPerOneDisplaying = initialAmount/hits;
+    }
+
+    @Override
+    public String toString() {
+        return "fdggdfdf";
     }
 
     public String getName() {
@@ -35,5 +41,10 @@ public class Advertisement {
         }else {
             hits--;
         }
+    }
+
+
+    public int getHits() {
+        return hits;
     }
 }
