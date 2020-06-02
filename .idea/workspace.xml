@@ -29,25 +29,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="ku ku epta1">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_slf4j_log4j_over_slf4j_1_7_26.xml" beforeDir="false" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="qwe">
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/strategy/OurHashBiMapStorageStrategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2412/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2412/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/ad/Advertisement.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/ad/Advertisement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/ad/AdvertisementManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2712/ad/AdvertisementManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.JavaCollections/4.JavaCollections.iml" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/4.JavaCollections.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task20/task2028/CustomTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task20/task2028/CustomTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3111/SearchFileVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3111/SearchFileVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3111/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3111/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/META-INF/3.JavaMultithreading.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2712/Tablet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2712/Tablet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2712/kitchen/Dish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2712/kitchen/Dish.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2712/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2712/Условие.jrtc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task20/task2028/CustomTree$Entry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task20/task2028/CustomTree$Entry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task20/task2028/CustomTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task20/task2028/CustomTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task31/task3111/SearchFileVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task31/task3111/SearchFileVisitor.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -593,7 +578,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589438844583</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="qwe">
+      <created>1591084932860</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1591084932860</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -626,7 +618,8 @@
     <MESSAGE value="игнор" />
     <MESSAGE value="ku ku epta" />
     <MESSAGE value="ku ku epta1" />
-    <option name="LAST_COMMIT_MESSAGE" value="ku ku epta1" />
+    <MESSAGE value="qwe" />
+    <option name="LAST_COMMIT_MESSAGE" value="qwe" />
   </component>
   <component name="WindowStateProjectService">
     <state x="655" y="190" key="#BotClient$BotSocketThread" timestamp="1585480530557">
@@ -637,10 +630,6 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1589807589405" />
-    <state x="552" y="178" width="816" height="780" key="#Intentions" timestamp="1581926566793">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="178" width="816" height="780" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1581926566793" />
     <state x="552" y="178" key="#Notifications" timestamp="1589976148978">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -693,10 +682,6 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="521" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589438842855" />
-    <state width="388" height="438" key="DebuggerActiveHint" timestamp="1582120511280">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="388" height="438" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1582120511280" />
     <state x="662" y="197" key="FileChooserDialogImpl" timestamp="1589522173935">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -757,10 +742,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="74" y="74" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590479759952" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1589438865876">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1591085267026">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589438865876" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591085267026" />
     <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1589428070028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
