@@ -104,10 +104,10 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.javarush.task.task37.task3714" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.javarush.task.task37.task3712" />
-      <recent name="com.javarush.task.task30.task3004" />
-      <recent name="com.javarush.task.task30.task3003" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3\JavaRushTasks\3.JavaMultithreading\src" />
+      <recent name="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3\JavaRushTasks\3.JavaMultithreading" />
+      <recent name="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3\JavaRushTasks\3.JavaMultithreading\src\com\javarush\task\task36\task3608" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\intellijSandbox\JavaRushTasks" />
@@ -115,10 +115,10 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3\JavaRushTasks\3.JavaMultithreading\src" />
-      <recent name="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3\JavaRushTasks\3.JavaMultithreading" />
-      <recent name="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3\JavaRushTasks\3.JavaMultithreading\src\com\javarush\task\task36\task3608" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.javarush.task.task37.task3712" />
+      <recent name="com.javarush.task.task30.task3004" />
+      <recent name="com.javarush.task.task30.task3003" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Solution">
@@ -782,10 +782,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589614276458" />
-    <state x="583" y="417" width="672" height="678" key="search.everywhere.popup" timestamp="1589614296029">
+    <state x="583" y="417" width="672" height="678" key="search.everywhere.popup" timestamp="1591085699924">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="583" y="417" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589614296029" />
+    <state x="583" y="417" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591085699924" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
